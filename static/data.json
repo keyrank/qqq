@@ -1,0 +1,28 @@
+{
+	"tableData":[
+		{"name":"可乐","pri":3,"count":1},
+		{"name":"鸡腿","pri":5,"count":1},
+		{"name":"薯条","pri":6,"count":1}
+	],
+	"pros":[
+		{"name":"香辣鸡腿堡","pri":14},
+		{"name":"鸡肉卷","pri":8},
+		{"name":"香辣鸡块","pri":5},
+		{"name":"辣鸡","pri":50}
+	],
+	"goodType1":[
+		{"name":"香辣鸡腿堡","pri":14,"img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1541140149833&di=9c6f9dda09ecb3d1f841ff7fec105c0c&imgtype=0&src=http%3A%2F%2Fwww.3158.cn%2Fdata%2Fi10%2F20150618%2F1257398733769517_490x490.jpg"},
+		{"name":"香辣鸡腿堡","pri":14,"img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1541140149833&di=9c6f9dda09ecb3d1f841ff7fec105c0c&imgtype=0&src=http%3A%2F%2Fwww.3158.cn%2Fdata%2Fi10%2F20150618%2F1257398733769517_490x490.jpg"},
+		{"name":"香辣鸡腿堡","pri":14,"img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1541140149833&di=9c6f9dda09ecb3d1f841ff7fec105c0c&imgtype=0&src=http%3A%2F%2Fwww.3158.cn%2Fdata%2Fi10%2F20150618%2F1257398733769517_490x490.jpg"}
+	],
+	"goodType2":[
+		{"name":"鸡肉卷","pri":8,"img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1541147060305&di=2d97a3016a27373b048524c8aa2710ec&imgtype=0&src=http%3A%2F%2Fp0.meituan.net%2Fdeal%2F__44512936__4475287.jpg"},
+		{"name":"鸡肉卷","pri":8,"img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1541147060305&di=2d97a3016a27373b048524c8aa2710ec&imgtype=0&src=http%3A%2F%2Fp0.meituan.net%2Fdeal%2F__44512936__4475287.jpg"},
+		{"name":"鸡肉卷","pri":8,"img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1541147060305&di=2d97a3016a27373b048524c8aa2710ec&imgtype=0&src=http%3A%2F%2Fp0.meituan.net%2Fdeal%2F__44512936__4475287.jpg"}
+	],
+	"goodType3":[
+		{"name":"鸡块","pri":10,"img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1541742033&di=4e6a714f604244baf46303e70462d6f8&imgtype=jpg&er=1&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimage%2Fc0%253Dshijue1%252C0%252C0%252C294%252C40%2Fsign%3D22aff31006f3d7ca18fb37359a76d47c%2F7acb0a46f21fbe09d1ee773a61600c338744ad68.jpg"},
+		{"name":"鸡块","pri":10,"img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1541742033&di=4e6a714f604244baf46303e70462d6f8&imgtype=jpg&er=1&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimage%2Fc0%253Dshijue1%252C0%252C0%252C294%252C40%2Fsign%3D22aff31006f3d7ca18fb37359a76d47c%2F7acb0a46f21fbe09d1ee773a61600c338744ad68.jpg"},
+		{"name":"鸡块","pri":10,"img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1541742033&di=4e6a714f604244baf46303e70462d6f8&imgtype=jpg&er=1&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimage%2Fc0%253Dshijue1%252C0%252C0%252C294%252C40%2Fsign%3D22aff31006f3d7ca18fb37359a76d47c%2F7acb0a46f21fbe09d1ee773a61600c338744ad68.jpg"}
+	]
+}
